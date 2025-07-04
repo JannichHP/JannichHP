@@ -6,19 +6,28 @@
 </div>
 
 ## **Overview**
-<div class="github-data" align="center">
+<div class="github-data" align="center" style="margin: auto;">
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=JannichHP&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
         <img src="https://github-readme-stats.vercel.app/api?username=JannichHP&show_icons=true" />
     </picture>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannichHP&layout=compact&theme=buefy&hide_border=true" />
+        </a>
 </div>
 
+
 ## **Work**
+
 Currently working with project IstoPay (Blazor Wasm & ASP.NET Web API) for maintaining Wash Solution for ISTOBAL Danmark & StoHolm El.
 
 ## **Projects**
-
-_"public" projects coming soon_.
+<div class="projects" align="center">
+<a href="https://github.com/JannichHP/FruitApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JannichHP&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JannichHP&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 ### **Programming Languages**
 <p align="center">
