@@ -16,62 +16,36 @@ A web application for **monitoring water treatment stations**.
 
 **Purpose**
 
-* Improve and maintain stations by providing a clear overview of status, alarms, and service needs.
-* Support **fast, correct alarm handling** to keep operations stable.
-* Collect and structure data on **chemical consumption** and **wash cycles** for better planning and documentation.
-
-**My contribution**
-
-* Designed and implemented **monitoring flows**, alarm handling, and status dashboards.
-* **Data collection and modeling** with a focus on making data actionable for operations and reporting.
-* Emphasis on **scalability, robustness, and maintainability** so the solution is easy to evolve and operate.
-
-**Impact**
-
-* Faster response to alarms and fewer unplanned outages.
-* Better **insight into consumption** (chemicals/washes), improving planning and cost control.
-* Greater **transparency** for technicians and operations.
+Improve and maintain stations by providing a clear overview of status, alarms, and service needs.
+Support **fast, correct alarm handling** to keep operations stable.
+Collect and structure data on **chemical consumption** and **wash cycles** for better planning and documentation.
 
 ---
 
 ## 💡 Interests
 
-* **Mobile & web development**—products that people use daily and that solve real problems.
-* **Monitoring/Observability**—logs, events, and dashboards that help teams react quickly.
-* **Usability**—clear interfaces that surface the right signal in seconds.
+**Mobile & web development**—products that people use daily and that solve real problems.
 
 ---
 
 ## 🧰 Skills
 
-* **Object‑Oriented Programming (OOP)**—structure, readability, and maintainability as core principles.
-* **Systems thinking**—from data collection to visualization and action.
-* **Collaboration**—I thrive in teams, share knowledge, and take responsibility for quality.
+**Object‑Oriented Programming (OOP)**—structure, readability, and maintainability as core principles.
+**Systems thinking**—from data collection to visualization and action.
+**Collaboration**—I thrive in teams, share knowledge, and take responsibility for quality.
 
 ---
 
 ## 📚 Currently learning
 
-* **Swift** (iOS) and **Kotlin** (Android) to build solid native mobile experiences.
+**Swift** (iOS) and **Kotlin** (Android) to build solid native mobile experiences.
 
 ---
 
 ## 🤝 How I work
 
-* I **enjoy meeting new people**—both professionally and in my spare time—and I’m motivated by great teamwork.
-* I have a **speech impairment**, which does **not** affect my professionalism or reliability. I communicate clearly in writing, prepare well, and ensure smooth collaboration.
-
----
-
-## 📫 Contact
-
-* *Add your preferred contact here (email, LinkedIn, etc.).*
-
----
-
-### TL;DR
-
-I build **practical monitoring & operations software** (currently *Vandrens*), I’m passionate about **mobile & web**, work solidly with **OOP**, and I’m learning **Swift** & **Kotlin** to expand my toolkit.
+I **enjoy meeting new people**—both professionally and in my spare time—and I’m motivated by great teamwork.
+I have a **speech impairment**, which does **not** affect my professionalism or reliability. I communicate clearly in writing, prepare well, and ensure smooth collaboration.
 
 </div>
 
