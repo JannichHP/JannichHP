@@ -52,7 +52,7 @@ I have a **speech impairment**, which does **not** affect my professionalism or 
 <div class="github-data" align="center" style="margin: auto;">
 
 ## **Overview**
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JannichHP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JannichHP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=JannichHP&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JannichHP&theme=dark&hide_border=false)<br/>
 <div class="work" align="center">
